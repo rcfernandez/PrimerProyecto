@@ -9,6 +9,8 @@
     <body>
         <h1>Hola Mundo!! estas en el HOME</h1>
         
+        <h1>Probando pull</h1>
+        
         <h3>Recuperacion de datos: </h3>
         <ul>
             <li>ID = ${id}</li>
